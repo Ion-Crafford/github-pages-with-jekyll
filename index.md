@@ -1,3 +1,2 @@
-# Welcome to my blog
-
-I'm glad you are here. I plan to talk about ...
+# Welcome to Ion's blog
+**Here I am trying to learn more about GITHUB in order to pass GMT.**
